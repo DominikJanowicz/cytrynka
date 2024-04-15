@@ -323,7 +323,7 @@ background: black ;
 }
 }
 
-@media (min-width:320px) {
+@media (max-width:320px) {
     .toggle{
   
         top:0px;
